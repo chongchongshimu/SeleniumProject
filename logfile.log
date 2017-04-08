@@ -1,0 +1,23 @@
+2017-03-25 16:32:16,725 INFO  78OA is open 
+2017-03-25 16:32:16,833 INFO  username is input 
+2017-03-25 16:32:16,872 INFO  password is input 
+2017-03-25 16:32:17,108 INFO  登录 button is clicked  
+2017-03-25 16:32:20,025 INFO  行政办公标签 is clicked 
+2017-03-25 16:32:20,110 INFO  办公用品菜单 is clicked 
+2017-03-25 16:32:20,203 INFO  办公用品选项 is clicked 
+2017-03-25 16:33:20,262 INFO  切换到Frame context 
+2017-03-25 16:33:22,370 INFO  新增button is clicked 
+2017-03-25 16:33:22,835 INFO  铅笔 is input for 办公用品名称区域 
+2017-03-25 16:33:22,932 INFO  个 is input for 计量单位 
+2017-03-25 16:33:23,100 INFO  select 桌面用品类 
+2017-03-25 16:33:23,201 INFO  input 达内 for 供应商区域 
+2017-03-25 16:33:23,315 INFO  input 5 for 当前库存 
+2017-03-25 16:33:23,423 INFO  input 2 for警戒库存 
+2017-03-25 16:33:23,639 INFO  添加 button is clicked 
+2017-03-25 16:33:25,953 INFO  保存 button is clicked 
+2017-03-25 16:34:28,302 INFO  添加 button is clicked 
+2017-03-25 16:35:32,794 ERROR row num is error 
+2017-03-25 16:35:32,838 INFO  input 新建办公用品类型 for 办公用品描述区域 
+2017-03-25 16:35:32,923 INFO  保存 button is clicked 
+2017-03-25 16:35:33,472 INFO  退出 button is clicked 
+2017-03-25 16:35:34,096 INFO  -----------------------------End------------------------------------ 
