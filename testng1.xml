@@ -14,5 +14,11 @@
 			<class name="testcases.Test0325"></class>
 		</classes>
 	</test>
+	
+	<test name="Test0325 TestCases">
+		<classes>
+			<class name="testcases.Test0325"></class>
+		</classes>
+	</test>
 
 </suite>
